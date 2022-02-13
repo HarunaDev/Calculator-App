@@ -87,4 +87,6 @@ class Calculator {
         } else {
           this.previousOperandTextElement.innerText = '';
         }
+    
+    }
 }
